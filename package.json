@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node": "^19.2.0",
+    "nodemon": "^2.0.20"
+  }
+}
