@@ -1,6 +1,30 @@
 {
   "dependencies": {
+    "express": "^4.18.2",
     "node": "^19.2.0",
     "nodemon": "^2.0.20"
-  }
+  },
+  "name": "proyecto-final",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.29.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --inspect server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlashxAxl/Proyecto_Final_BE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SlashxAxl/Proyecto_Final_BE/issues"
+  },
+  "homepage": "https://github.com/SlashxAxl/Proyecto_Final_BE#readme",
+  "description": ""
 }
